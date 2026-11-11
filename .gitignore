@@ -1,0 +1,7 @@
+__pycache__/
+.env
+storage/
+node_modules/
+.next/
+*.json.key
+firebase-service-account.json
